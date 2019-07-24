@@ -14,7 +14,9 @@ export default {
      ** Headers of the page
      */
     head: {
-        title: process.env.npm_package_name || '',
+        title:
+            process.env.npm_package_name ||
+            'Bryan J. Hickey | Personal Website',
         meta: [
             { charset: 'utf-8' },
             {
@@ -24,7 +26,8 @@ export default {
             {
                 hid: 'description',
                 name: 'description',
-                content: process.env.npm_package_description || ''
+                content:
+                    "Hi! I'm a full-stack web developer living in Melbourne, Australia."
             }
         ],
         link: [{ rel: 'icon', type: 'image/x-icon', href: '/favicon.ico' }]
