@@ -45,6 +45,13 @@ export default {
      */
     plugins: [],
     /*
+     ** Manifest becuase it's the right thing to do
+     */
+    manifest: {
+        name: 'Bryan J. Hickey | Personal Website',
+        lang: 'en'
+    },
+    /*
      ** Nuxt.js modules
      */
     modules: [
