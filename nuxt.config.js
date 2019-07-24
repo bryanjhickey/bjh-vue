@@ -50,7 +50,8 @@ export default {
     manifest: {
         name: 'Bryan J. Hickey | Personal Website',
         lang: 'en',
-        background_color: '#DE2929'
+        background_color: '#DE2929',
+        prefer_related_applications: false
     },
     /*
      ** Nuxt.js modules
