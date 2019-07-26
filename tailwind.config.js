@@ -6,6 +6,9 @@ module.exports = {
             padding: '1rem'
         },
         borderWidth: {
+            '1': '1px',
+            '2': '2px',
+            '4': '4px',
             '40': '40px'
         },
         extend: {

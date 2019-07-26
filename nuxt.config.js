@@ -105,5 +105,13 @@ export default {
          ** You can extend webpack config here
          */
         extend(config, ctx) {}
+    },
+    router: {
+        linkActiveClass: 'text-red'
+    },
+    server: {
+        port: 7777, // default: 3000
+        host: '0.0.0.0', // default: localhost,
+        timing: false
     }
 }

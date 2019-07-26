@@ -9,20 +9,27 @@
       <ul class="ml-auto mr-auto text-center uppercase tracking-wide font-black flex items-center">
         <li>
           <nuxt-link
+            to="/"
+            class="mr-2 md:mr-4 text-gray-800 px-2 md:px-4 pb-2 border-b-4 border-white hover:text-red hover:border-red"
+            exact
+          >Home</nuxt-link>
+        </li>
+        <li>
+          <nuxt-link
             to="/about"
-            class="mr-2 md:mr-4 text-gray-800 px-2 md:px-4 pb-2 border-b-2 border-white hover:text-red hover:border-red"
+            class="mr-2 md:mr-4 text-gray-800 px-2 md:px-4 pb-2 border-b-4 border-white hover:text-red hover:border-red"
           >About</nuxt-link>
         </li>
         <li>
           <nuxt-link
             to="/uses"
-            class="mr-2 md:mr-4 text-gray-800 px-2 md:px-4 pb-2 border-b-2 border-white hover:text-red hover:border-red"
+            class="mr-2 md:mr-4 text-gray-800 px-2 md:px-4 pb-2 border-b-4 border-white hover:text-red hover:border-red"
           >Uses</nuxt-link>
         </li>
         <li>
           <nuxt-link
             to="/articles"
-            class="mr-2 md:mr-4 text-gray-800 px-2 md:px-4 pb-2 border-b-2 border-white hover:text-red hover:border-red"
+            class="mr-2 md:mr-4 text-gray-800 px-2 md:px-4 pb-2 border-b-4 border-white hover:text-red hover:border-red"
           >Articles</nuxt-link>
         </li>
       </ul>
