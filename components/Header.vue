@@ -15,15 +15,9 @@
         </li>
         <li>
           <nuxt-link
-            to="/work"
+            to="/uses"
             class="mr-2 md:mr-4 text-gray-800 px-2 md:px-4 pb-2 border-b-2 border-white hover:text-red hover:border-red"
-          >Work</nuxt-link>
-        </li>
-        <li>
-          <nuxt-link
-            to="/tools"
-            class="mr-2 md:mr-4 text-gray-800 px-2 md:px-4 pb-2 border-b-2 border-white hover:text-red hover:border-red"
-          >Tools</nuxt-link>
+          >Uses</nuxt-link>
         </li>
         <li>
           <nuxt-link
