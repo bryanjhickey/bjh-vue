@@ -9,6 +9,15 @@
 </template>
 
 <script>
+if (window.netlifyIdentity) {
+    window.netlifyIdentity.on("init", user => {
+      if (!user) {
+        window.netlifyIdentity.on("login", () => {
+          document.location.href = "/admin/";
+        });
+      }
+    });
+  }
 import Header from '~/components/Header'
 import Footer from '~/components/Footer'
 
