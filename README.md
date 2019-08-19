@@ -2,4 +2,4 @@
 
 This is a minimal starter blog kit for markdown.
 
-[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/gridsome/gridsome-starter-markdown-blog)
+[![Netlify Status](https://api.netlify.com/api/v1/badges/0bac7ec1-d259-4195-85ed-144e0464029d/deploy-status)](https://app.netlify.com/sites/priceless-wing-57b34b/deploys)
