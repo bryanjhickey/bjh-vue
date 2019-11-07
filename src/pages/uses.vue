@@ -31,7 +31,7 @@
             target="_blank"
             rel="noopener"
             href="https://www.officeworks.com.au/shop/officeworks/p/lacie-2tb-rugged-portable-hard-drive-thunderbolt-and-usb-3-1-sglcth2tb"
-          >LaCie 2TB SSD Rugged External HD</a>. When I need to block out the outside world (or get told to turn the volume down) I slip on a pari of
+          >LaCie 2TB SSD Rugged External HD</a>. When I need to block out the outside world (or get told to turn the volume down) I slip on a pair of
           <a
             target="_blank"
             rel="noopener"
@@ -62,7 +62,7 @@
         >VS Code has a bounty of plugins for cool stuff. The complete list is below:</p>
         <ul class="w-full lg:w-1/2 px-4">
           <li class="mb-4 italic text-sm">
-            <span class="not-italic text-lg">🗒️</span>
+            <span class="not-italic text-lg mr-2">🗒️</span>
             <a
               target="_blank"
               rel="noopener"
@@ -70,7 +70,7 @@
             >Auto rename Tag</a> — renames matching tags.
           </li>
           <li class="mb-4 italic text-sm">
-            <span class="not-italic text-lg">🗯️</span>
+            <span class="not-italic text-lg mr-2">🗯️</span>
             <a
               target="_blank"
               rel="noopener"
@@ -78,7 +78,7 @@
             >Better Comments</a> — Level up my comments with TODO, Warnings etc in their own colour.
           </li>
           <li class="mb-4 italic text-sm">
-            <span class="not-italic text-lg">🌈</span>
+            <span class="not-italic text-lg mr-2">🌈</span>
             <a
               target="_blank"
               rel="noopener"
@@ -86,7 +86,7 @@
             >Bracket Pair Colourizer</a> — colourises brackets, parentheses, braces and all the great enclosures.
           </li>
           <li class="mb-4 italic text-sm">
-            <span class="not-italic text-lg">⭐</span>
+            <span class="not-italic text-lg mr-2">⭐</span>
             <a
               target="_blank"
               rel="noopener"
@@ -94,7 +94,7 @@
             >Custom CSS and JS Loader</a> — helper for Cobalt2.
           </li>
           <li class="mb-4 italic text-sm">
-            <span class="not-italic text-lg">✅</span>
+            <span class="not-italic text-lg mr-2">✅</span>
             <a
               target="_blank"
               rel="noopener"
@@ -102,7 +102,7 @@
             >ESlint</a> — To make sure I'm coding within the lines
           </li>
           <li class="mb-4 italic text-sm">
-            <span class="not-italic text-lg">👓</span>
+            <span class="not-italic text-lg mr-2">👓</span>
             <a
               target="_blank"
               rel="noopener"
@@ -110,7 +110,7 @@
             >GitLens</a> — inline view for author, date and commit.
           </li>
           <li class="mb-4 italic text-sm">
-            <span class="not-italic text-lg">🔩</span>
+            <span class="not-italic text-lg mr-2">🔩</span>
             <a
               target="_blank"
               rel="noopener"
@@ -120,7 +120,7 @@
         </ul>
         <ul class="w-full lg:w-1/2 px-4">
           <li class="mb-4 italic text-sm">
-            <span class="not-italic text-lg">📁</span>
+            <span class="not-italic text-lg mr-2">📁</span>
             <a
               target="_blank"
               rel="noopener"
@@ -128,7 +128,7 @@
             >Material Icon Theme</a> — to make the explorer prettierer.
           </li>
           <li class="mb-4 italic text-sm">
-            <span class="not-italic text-lg">🕵️‍♂️</span>
+            <span class="not-italic text-lg mr-2">🕵️‍♂️</span>
             <a
               target="_blank"
               rel="noopener"
@@ -136,7 +136,7 @@
             >Path Intellisense</a> — makes writing path locations easier.
           </li>
           <li class="mb-4 italic text-sm">
-            <span class="not-italic text-lg">💇‍♀️</span>
+            <span class="not-italic text-lg mr-2">💇‍♀️</span>
             <a
               target="_blank"
               rel="noopener"
@@ -144,7 +144,7 @@
             >Prettier</a> — Well, to make things look proper.
           </li>
           <li class="mb-4 italic text-sm">
-            <span class="not-italic text-lg">➰</span>
+            <span class="not-italic text-lg mr-2">➰</span>
             <a
               target="_blank"
               rel="noopener"
@@ -152,7 +152,7 @@
             >Settings Sync</a> — keep the settings safe, keep them secret. Very helpful when I wreck my MacBook Pro with coffee.
           </li>
           <li class="mb-4 italic text-sm">
-            <span class="not-italic text-lg">🧞‍♂️</span>
+            <span class="not-italic text-lg mr-2">🧞‍♂️</span>
             <a
               target="_blank"
               rel="noopener"
@@ -160,7 +160,7 @@
             >Tailwind CSS IntelliSense</a> — Get some help with the utility CSS.
           </li>
           <li class="mb-4 italic text-sm">
-            <span class="not-italic text-lg">🥬</span>
+            <span class="not-italic text-lg mr-2">🥬</span>
             <a
               target="_blank"
               rel="noopener"
@@ -168,7 +168,7 @@
             >Twig Language 2</a> — When using Craft CMS from time to time.
           </li>
           <li class="mb-4 italic text-sm">
-            <span class="not-italic text-lg">🚀</span>
+            <span class="not-italic text-lg mr-2">🚀</span>
             <a
               target="_blank"
               rel="noopener"
@@ -177,21 +177,21 @@
           </li>
         </ul>
         <p
-          class="mb-4 text-md leading-loose mb-8 mt-4"
+          class="w-full mb-4 text-md leading-loose mb-8 mt-4"
         >A few others tools I use for web development include:</p>
         <ul class="w-full lg:w-1/2 px-4">
           <li class="mb-4 italic text-sm">
-            <span class="not-italic text-lg">☄</span>️
+            <span class="not-italic text-lg mr-2">☄</span>️
             <a target="_blank" rel="noopener" href="https://hyper.is/">Hyper</a> is my terminal of choice
           </li>
           <li class="mb-4 italic text-sm">
-            <span class="not-italic text-lg">🛢️</span>
+            <span class="not-italic text-lg mr-2">🛢️</span>
             <a target="_blank" rel="noopener" href="https://tableplus.io/">TablePlus</a> is what I use for local and remote DB management. I've used Sequel in the past.
           </li>
         </ul>
         <ul class="w-full lg:w-1/2 px-4">
           <li class="mb-4 italic text-sm">
-            <span class="not-italic text-lg">🍽</span>️
+            <span class="not-italic text-lg mr-2">🍽</span>️
             <a
               target="_blank"
               rel="noopener"
@@ -199,7 +199,7 @@
             >Laravel Valet</a> keeps local hosting ticking along
           </li>
           <li class="mb-4 italic text-sm">
-            <span class="not-italic text-lg">🍕</span>
+            <span class="not-italic text-lg mr-2">🍕</span>
             <a target="_blank" rel="noopener" href="https://brew.sh/">Homebrew</a>,
             <a target="_blank" rel="noopener" href="https://github.com/nvm-sh/nvm">NVM</a>,
             <a target="_blank" rel="noopener" href="https://www.npmjs.com/">NPM</a> are indispensable package managers.
@@ -210,11 +210,11 @@
         >Choosing a right browser is never easy. Despite many of its frustration idiosyncrasies, I mostly use Chrome, occasanily Firefox. My Chrome install has a few helpers for productivity and coding</p>
         <ul class="w-full lg:w-1/2 px-4">
           <li class="mb-4 italic text-sm">
-            <span class="not-italic text-lg">🔐</span>
+            <span class="not-italic text-lg mr-2">🔐</span>
             <a target="_blank" rel="noopener" href="https://1password.com/">1Password</a> — unique passwords for everything.
           </li>
           <li class="mb-4 italic text-sm">
-            <span class="not-italic text-lg">⛔</span>
+            <span class="not-italic text-lg mr-2">⛔</span>
             <a
               target="_blank"
               rel="noopener"
@@ -222,7 +222,7 @@
             >AdBlock</a> — who likes ads anyway? Soz, online publishers
           </li>
           <li class="mb-4 italic text-sm">
-            <span class="not-italic text-lg">🔍</span>
+            <span class="not-italic text-lg mr-2">🔍</span>
             <a
               target="_blank"
               rel="noopener"
@@ -230,7 +230,7 @@
             >Vue.js DevTools</a> — because, vue.
           </li>
           <li class="mb-4 italic text-sm">
-            <span class="not-italic text-lg">🔍</span>
+            <span class="not-italic text-lg mr-2">🔍</span>
             <a
               target="_blank"
               rel="noopener"
@@ -238,7 +238,7 @@
             >React Developer Tools</a> — because, react.
           </li>
           <li class="mb-4 italic text-sm">
-            <span class="not-italic text-lg">🕵️‍♂️</span>
+            <span class="not-italic text-lg mr-2">🕵️‍♂️</span>
             <a
               target="_blank"
               rel="noopener"
@@ -248,7 +248,7 @@
         </ul>
         <ul class="w-full lg:w-1/2 px-4">
           <li class="mb-4 italic text-sm">
-            <span class="not-italic text-lg">‍‍‍🕵️‍♂️</span>
+            <span class="not-italic text-lg mr-2">‍‍‍🕵️‍♂️</span>
             <a
               target="_blank"
               rel="noopener"
@@ -256,15 +256,15 @@
             >Tag Assistant (by Google)</a> — to see my tags while I'm being categorised.
           </li>
           <li class="mb-4 italic text-sm">
-            <span class="not-italic text-lg">📊</span>
+            <span class="not-italic text-lg mr-2">📊</span>
             <a
               target="_blank"
               rel="noopener"
               href="https://chrome.google.com/webstore/detail/seo-analysis-website-revi/hlngmmdolgbdnnimbmblfhhndibdipaf?hl=en"
-            >SEO Analysis &amp — Website Review by WooRank</a> — sanity check.
+            >SEO Analysis — Website Review by WooRank</a> — sanity check.
           </li>
           <li class="mb-4 italic text-sm">
-            <span class="not-italic text-lg">📷</span>
+            <span class="not-italic text-lg mr-2">📷</span>
             <a
               target="_blank"
               rel="noopener"
@@ -277,7 +277,7 @@
         >I love the quality of Mac apps and keep a few around for company</p>
         <ul class="px-4 w-full lg:w-1/2">
           <li class="mb-4 italic text-sm">
-            <span class="not-italic text-lg">🦊</span>
+            <span class="not-italic text-lg mr-2">🦊</span>
             <a target="_blank" rel="noopener" href="https://www.mozilla.org/en-US/firefox/">Firefox</a>,
             <a
               target="_blank"
@@ -291,35 +291,35 @@
             >Firefox Developer Edition</a> — loving the layout tools for CSS Grid.
           </li>
           <li class="mb-4 italic text-sm">
-            <span class="not-italic text-lg">🧭</span>
+            <span class="not-italic text-lg mr-2">🧭</span>
             <a target="_blank" rel="noopener" href="https://www.apple.com/au/safari/">Safari</a> — mostly checking it works. Not for daily use.
           </li>
           <li class="mb-4 italic text-sm">
-            <span class="not-italic text-lg">✉</span>️
+            <span class="not-italic text-lg mr-2">✉</span>️
             <a target="_blank" rel="noopener" href="https://support.apple.com/en-au/mail">Mail</a> — its an email app.
           </li>
           <li class="mb-4 italic text-sm">
-            <span class="not-italic text-lg">⌨</span>️
+            <span class="not-italic text-lg mr-2">⌨</span>️
             <a target="_blank" rel="noopener" href="https://www.alfredapp.com/">Alfred</a> — let me fingers do the work of 10 mouses.
           </li>
           <li class="mb-4 italic text-sm">
-            <span class="not-italic text-lg">🗳️</span>
+            <span class="not-italic text-lg mr-2">🗳️</span>
             <a target="_blank" rel="noopener" href="https://mizage.com/divvy/">Divvy</a> — multiple monitors with multiple screens? This helps.
           </li>
           <li class="mb-4 italic text-sm">
-            <span class="not-italic text-lg">🚀</span>
+            <span class="not-italic text-lg mr-2">🚀</span>
             <a target="_blank" rel="noopener" href="https://emojipedia.org/rocket/">Rocket Emoki</a> — to keep my 'moji life legit
           </li>
           <li class="mb-4 italic text-sm">
-            <span class="not-italic text-lg">🔠</span>
+            <span class="not-italic text-lg mr-2">🔠</span>
             <a target="_blank" rel="noopener" href="https://textexpander.com/">TextExpander</a> — to save me from future carpel tunnel.
           </li>
           <li class="mb-4 italic text-sm">
-            <span class="not-italic text-lg">🔥</span>
+            <span class="not-italic text-lg mr-2">🔥</span>
             <a target="_blank" rel="noopener" href="https://www.backblaze.com/">BackBlaze</a> — my whole computer backed up, version-controlled and no fuss.
           </li>
           <li class="mb-4 italic text-sm">
-            <span class="not-italic text-lg">🧹</span>
+            <span class="not-italic text-lg mr-2">🧹</span>
             <a
               target="_blank"
               rel="noopener"
@@ -329,7 +329,7 @@
         </ul>
         <ul class="px-4 w-full lg:w-1/2">
           <li class="mb-4 italic text-sm">
-            <span class="not-italic text-lg">🖌️</span>
+            <span class="not-italic text-lg mr-2">🖌️</span>
             <a
               target="_blank"
               rel="noopener"
@@ -337,7 +337,7 @@
             >Adobe Photoshop</a> — love / hate relationship. It's complicated - don't ask!
           </li>
           <li class="mb-4 italic text-sm">
-            <span class="not-italic text-lg">🎢</span>
+            <span class="not-italic text-lg mr-2">🎢</span>
             <a
               target="_blank"
               rel="noopener"
@@ -345,7 +345,7 @@
             >Adobe Illustrator</a> — love / hate relationship. It's complicated - don't ask!
           </li>
           <li class="mb-4 italic text-sm">
-            <span class="not-italic text-lg">🚧</span>
+            <span class="not-italic text-lg mr-2">🚧</span>
             <a
               target="_blank"
               rel="noopener"
@@ -353,7 +353,7 @@
             >Adobe XD</a> — I actually do like this. I've used Sketch but prefer XD.
           </li>
           <li class="mb-4 italic text-sm">
-            <span class="not-italic text-lg">📰</span>
+            <span class="not-italic text-lg mr-2">📰</span>
             <a
               target="_blank"
               rel="noopener"
@@ -361,15 +361,15 @@
             >Adobe InDesign</a> — love / hate relationship. It's complicated - don't ask!
           </li>
           <li class="mb-4 italic text-sm">
-            <span class="not-italic text-lg">🗃️</span>
+            <span class="not-italic text-lg mr-2">🗃️</span>
             <a target="_blank" rel="noopener" href="https://www.dropbox.com/">Dropbox</a> — used it for a long time but looking at alternatives.
           </li>
           <li class="mb-4 italic text-sm">
-            <span class="not-italic text-lg">🍀</span>
+            <span class="not-italic text-lg mr-2">🍀</span>
             <a target="_blank" rel="noopener" href="https://sproutsocial.com/">Sprout Social</a> — it's costly but woth it. For managing a lots social media accounts, posts. conversations and anayltics..
           </li>
           <li class="mb-4 italic text-sm">
-            <span class="not-italic text-lg">🤼</span>
+            <span class="not-italic text-lg mr-2">🤼</span>
             <a target="_blank" rel="noopener" href="https://discordapp.com/">Discord</a> — better than Slack.
           </li>
         </ul>

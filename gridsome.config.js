@@ -21,15 +21,15 @@ module.exports = {
   plugins: [
     {
       use: "gridsome-plugin-tailwindcss"
-    },
-    {
-      use: "@gridsome/source-filesystem",
-      options: {
-        path: "content/articles/*.md",
-        typeName: "BlogPost",
-        route: "/articles/:slug"
-      }
     }
+    // {
+    //   use: "@gridsome/source-filesystem",
+    //   options: {
+    //     path: "content/articles/*.md",
+    //     typeName: "BlogPost",
+    //     route: "/articles/:slug"
+    //   }
+    // }
   ],
   chainWebpack(config) {
     // Load variables for all vue-files

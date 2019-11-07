@@ -10,9 +10,14 @@
             class="font-bold uppercase text-lg"
           >a full stack web developer living in Melbourne, Australia.</h2>
           <div class="mt-10">
-            <p
-              class="mb-4 text-md leading-loose"
-            >I started making things on the internet around the time Ethan Marcotte wrote his first article on <a href="https://alistapart.com/article/responsive-web-design/" target="_blank" rel="noopner">responsive web design</a> in 2010.</p>
+            <p class="mb-4 text-md leading-loose">
+              I started making things on the internet around the time Ethan Marcotte wrote his first article on
+              <a
+                href="https://alistapart.com/article/responsive-web-design/"
+                target="_blank"
+                rel="noopner"
+              >responsive web design</a> in 2010.
+            </p>
             <p
               class="mb-4 text-md leading-loose"
             >A lot has changed since then, but my passion for what is possible with HTML, CSS and JavaScript has not waned.</p>
@@ -39,10 +44,10 @@
           <div class="lg:ml-32 mt-12 lg:-mt-24">
             <p
               class="mb-4 text-md leading-loose"
-            >For over 10 years, I've worked with in a variety of roles with a large array of tools to get the job done right. From jpeg compressions to JavaScript frameworks, it's been a hell of ride. Along the way I've learnt that it’s not so much the tools that matter it's knowing how to solve problems with others; that's the constant.</p>
+            >For over 10 years, I've worked in a variety of roles with a large array of tools to get the job done right. From jpeg compressions to JavaScript frameworks, it's been a hell of ride. Along the way I've learnt that it’s not so much the tools that matter it's knowing how to solve problems with other people; that's the constant.</p>
             <p
               class="text-md leading-loose"
-            >Most days you’ll find me crafting UI/UX designs and coding in some strain of modern front-end JavaScript framework. I can wrangle PHP and slay a DevOps assignment; it's all in a days work really.</p>
+            >Most days you’ll find me crafting UI/UX designs and coding in some strain of modern front-end JavaScript framework. I can wrangle PHP and slay a DevOps assignment; it's all in a day's work really.</p>
             <div class="bg-gray-800 mt-10 p-6 font-mono text-xs text-gray-500">
               <p>
                 <span class="text-gray-700">1&nbsp;&nbsp;</span>
