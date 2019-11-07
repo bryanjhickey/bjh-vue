@@ -2,7 +2,7 @@
   <layout>
     <div class="container mx-auto">
       <div class="flex flex-wrap pt-16 lg:py-32">
-        <div class="w-full lg:w-1/2 mt-6 lg:mb-0">
+        <div class="w-full lg:w-1/2 lg:mb-0">
           <h1 class="font-black text-4xl lg:text-5xl mb-2 text-xl uppercase leading-tight">
             <span class>Hi, I’m Bryan</span>
           </h1>
