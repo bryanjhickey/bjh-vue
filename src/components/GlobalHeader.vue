@@ -14,12 +14,12 @@
             exact
           >Home</g-link>
         </li>
-        <!-- <li>
+        <li>
           <g-link
-            to="/about"
+            to="/resume"
             class="mr-2 md:mr-4 text-gray-800 px-2 md:px-4 pb-2 border-b-4 border-white hover:text-red hover:border-red"
-          >About</g-link>
-        </li>-->
+          >Resumé</g-link>
+        </li>
         <li>
           <g-link
             to="/uses"

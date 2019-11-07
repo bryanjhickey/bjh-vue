@@ -1,65 +1,67 @@
 <template>
   <layout>
-    <div class="container">
-      <div class="flex flex-wrap py-16 px-0 lg:px-32 lg:py-32">
+    <div class="container mx-auto">
+      <div class="flex flex-wrap pt-16 lg:py-32">
         <h1
           class="font-black text-4xl lg:text-5xl mb-10 text-xl uppercase leading-tight"
         >Tools I Use 'ery Day</h1>
-        <p class="mb-4 text-md leading-loose">
-          My only computer is a
-          <a
-            target="_blank"
-            rel="noopener"
-            href="https://support.apple.com/kb/sp690?locale=en_AU"
-          >Retina, 15-inch, Late 2013 MacBook Pro</a> connected to an
-          <a
-            target="_blank"
-            rel="noopener"
-            href="https://www.lg.com/us/monitors/lg-34UM88-P-ultrawide-monitor"
-          >LG 34UM88-P 34inch Ultrwwide monitor</a>,
-          <a
-            target="_blank"
-            rel="noopener"
-            href="https://www.logitech.com/en-au/product/speaker-system-z623"
-          >Logitech Z623 Speakers</a>, an (aging)
-          <a
-            target="_blank"
-            rel="noopener"
-            href="https://www.cnet.com/products/wd-my-book-studio-wdbaaj0015hsl-hard-drive-1-5-tb-firewire-800-firewire-usb-2-0-series/"
-          >WD My Book Studio 1.5TB</a> over firewire, a
-          <a
-            target="_blank"
-            rel="noopener"
-            href="https://www.officeworks.com.au/shop/officeworks/p/lacie-2tb-rugged-portable-hard-drive-thunderbolt-and-usb-3-1-sglcth2tb"
-          >LaCie 2TB SSD Rugged External HD</a>. When I need to block out the outside world (or get told to turn the volume down) I slip on a pair of
-          <a
-            target="_blank"
-            rel="noopener"
-            href="https://www.jbhifi.com.au/beats-by-dr-dre/beats-studio-3-wireless-over-ear-headphones-matte-black/503691/"
-          >Beats Studio 3 Wireless</a> headphones.
-        </p>
-        <p class="mb-4 text-md leading-loose">
-          I use
-          <a class="outside_link" href="https://code.visualstudio.com/">Visual Studio Code</a> pretty much every day. In the past I've used
-          <a
-            href="https://www.sublimetext.com/"
-          >Sublime Text</a> and
-          <a target="_blank" rel="noopener" href="https://macromates.com/">TextMate</a>. I keep it clean with
-          <a
-            href="https://github.com/wesbos/cobalt2-vscode"
-          >Wes Bos's Colbalt2 theme</a> with
-          <a
-            target="_blank"
-            rel="noopener"
-            href="https://www.typography.com/fonts/operator/styles"
-          >Operator Mono</a>. Unlike Wes, I've opted into
-          <a
-            href="https://github.com/kiliman/operator-mono-lig"
-          >ligatures for Operator Mono</a> and love them.
-        </p>
-        <p
-          class="mb-4 text-md leading-loose mb-8"
-        >VS Code has a bounty of plugins for cool stuff. The complete list is below:</p>
+        <div class="w-full">
+          <p class="mb-4 text-md leading-loose">
+            My only computer is a
+            <a
+              target="_blank"
+              rel="noopener"
+              href="https://support.apple.com/kb/sp690?locale=en_AU"
+            >Retina, 15-inch, Late 2013 MacBook Pro</a> connected to an
+            <a
+              target="_blank"
+              rel="noopener"
+              href="https://www.lg.com/us/monitors/lg-34UM88-P-ultrawide-monitor"
+            >LG 34UM88-P 34inch Ultrwwide monitor</a>,
+            <a
+              target="_blank"
+              rel="noopener"
+              href="https://www.logitech.com/en-au/product/speaker-system-z623"
+            >Logitech Z623 Speakers</a>, an (aging)
+            <a
+              target="_blank"
+              rel="noopener"
+              href="https://www.cnet.com/products/wd-my-book-studio-wdbaaj0015hsl-hard-drive-1-5-tb-firewire-800-firewire-usb-2-0-series/"
+            >WD My Book Studio 1.5TB</a> over firewire, a
+            <a
+              target="_blank"
+              rel="noopener"
+              href="https://www.officeworks.com.au/shop/officeworks/p/lacie-2tb-rugged-portable-hard-drive-thunderbolt-and-usb-3-1-sglcth2tb"
+            >LaCie 2TB SSD Rugged External HD</a>. When I need to block out the outside world (or get told to turn the volume down) I slip on a pair of
+            <a
+              target="_blank"
+              rel="noopener"
+              href="https://www.jbhifi.com.au/beats-by-dr-dre/beats-studio-3-wireless-over-ear-headphones-matte-black/503691/"
+            >Beats Studio 3 Wireless</a> headphones.
+          </p>
+          <p class="mb-4 text-md leading-loose">
+            I use
+            <a class="outside_link" href="https://code.visualstudio.com/">Visual Studio Code</a> pretty much every day. In the past I've used
+            <a
+              href="https://www.sublimetext.com/"
+            >Sublime Text</a> and
+            <a target="_blank" rel="noopener" href="https://macromates.com/">TextMate</a>. I keep it clean with
+            <a
+              href="https://github.com/wesbos/cobalt2-vscode"
+            >Wes Bos's Colbalt2 theme</a> with
+            <a
+              target="_blank"
+              rel="noopener"
+              href="https://www.typography.com/fonts/operator/styles"
+            >Operator Mono</a>. Unlike Wes, I've opted into
+            <a
+              href="https://github.com/kiliman/operator-mono-lig"
+            >ligatures for Operator Mono</a> and love them.
+          </p>
+          <p
+            class="mb-4 text-md leading-loose mb-8"
+          >VS Code has a bounty of plugins for cool stuff. The complete list is below:</p>
+        </div>
         <ul class="w-full lg:w-1/2 px-4">
           <li class="mb-4 italic text-sm">
             <span class="not-italic text-lg mr-2">🗒️</span>
@@ -176,9 +178,11 @@
             >Vetur</a> — for Vue.
           </li>
         </ul>
-        <p
-          class="w-full mb-4 text-md leading-loose mb-8 mt-4"
-        >A few others tools I use for web development include:</p>
+        <div class="w-full">
+          <p
+            class="w-full mb-4 text-md leading-loose mb-8 mt-4"
+          >A few others tools I use for web development include:</p>
+        </div>
         <ul class="w-full lg:w-1/2 px-4">
           <li class="mb-4 italic text-sm">
             <span class="not-italic text-lg mr-2">☄</span>️
@@ -205,9 +209,11 @@
             <a target="_blank" rel="noopener" href="https://www.npmjs.com/">NPM</a> are indispensable package managers.
           </li>
         </ul>
-        <p
-          class="mb-4 text-md leading-loose mb-8 mt-4"
-        >Choosing a right browser is never easy. Despite many of its frustration idiosyncrasies, I mostly use Chrome, occasanily Firefox. My Chrome install has a few helpers for productivity and coding</p>
+        <div class="w-full">
+          <p
+            class="mb-4 text-md leading-loose mb-8 mt-4"
+          >Choosing a right browser is never easy. Despite many of its frustration idiosyncrasies, I mostly use Chrome, occasanily Firefox. My Chrome install has a few helpers for productivity and coding</p>
+        </div>
         <ul class="w-full lg:w-1/2 px-4">
           <li class="mb-4 italic text-sm">
             <span class="not-italic text-lg mr-2">🔐</span>
@@ -272,9 +278,11 @@
             >Streamkeys</a> — because I'm a fiend for online tutorials.
           </li>
         </ul>
-        <p
-          class="mb-4 text-md leading-loose mb-8 mt-4"
-        >I love the quality of Mac apps and keep a few around for company</p>
+        <div class="w-full">
+          <p
+            class="mb-4 text-md leading-loose mb-8 mt-4"
+          >I love the quality of Mac apps and keep a few around for company</p>
+        </div>
         <ul class="px-4 w-full lg:w-1/2">
           <li class="mb-4 italic text-sm">
             <span class="not-italic text-lg mr-2">🦊</span>
@@ -373,12 +381,14 @@
             <a target="_blank" rel="noopener" href="https://discordapp.com/">Discord</a> — better than Slack.
           </li>
         </ul>
-        <p class="leading-relaxed text-xs mb-4 mt-16">
-          Like many others, this page was inspired by
-          <a
-            href="https://wesbos.com/uses/"
-          >https://wesbos.com/uses/</a>
-        </p>
+        <div class="w-full">
+          <p class="leading-relaxed text-xs mb-4 mt-16">
+            Like many others, this page was inspired by
+            <a
+              href="https://wesbos.com/uses/"
+            >https://wesbos.com/uses/</a>
+          </p>
+        </div>
       </div>
     </div>
   </layout>
