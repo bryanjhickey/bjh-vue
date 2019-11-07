@@ -42,4 +42,10 @@ export default {
   name: "GlobalHeader"
 };
 </script>
+<style scoped`>
+.active {
+  @apply text-red;
+  @apply border-red;
+}
+</style>
 

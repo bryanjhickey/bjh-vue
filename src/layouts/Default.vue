@@ -29,5 +29,6 @@ export default {
 <style lang="css">
 a {
   @apply text-red;
+  transition: all 0.3s ease-in-out;
 }
 </style>
