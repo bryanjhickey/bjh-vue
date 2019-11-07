@@ -15,7 +15,7 @@
               <a
                 href="https://alistapart.com/article/responsive-web-design/"
                 target="_blank"
-                rel="noopner"
+                rel="noopener"
               >responsive web design</a> in 2010.
             </p>
             <p

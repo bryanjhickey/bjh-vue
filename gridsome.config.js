@@ -21,6 +21,21 @@ module.exports = {
   plugins: [
     {
       use: "gridsome-plugin-tailwindcss"
+    },
+    {
+      use: "gridsome-plugin-pwa",
+      options: {
+        title: "Bryan James Hickey",
+        startUrl: "/",
+        display: "standalone",
+        statusBarStyle: "default",
+        manifestPath: "manifest.json",
+        serviceWorkerPath: "service-worker.js",
+        shortName: "bjh",
+        themeColor: "#de2929",
+        backgroundColor: "#ffffff",
+        icon: "./src/favicon.png" // must be supplied!
+      }
     }
     // {
     //   use: "@gridsome/source-filesystem",
