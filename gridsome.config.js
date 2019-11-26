@@ -17,6 +17,7 @@ module.exports = {
   siteDescription:
     "Working on the web since 2010, this website explores, records and discusses issues in modern web development. You'll also discover some of my other hobbies like snooker, business development and creative media.",
   titleTemplate: `%s - Gridsome`,
+  siteUrl: "https://bryanjhickey.com",
 
   plugins: [
     {
