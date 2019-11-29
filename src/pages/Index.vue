@@ -21,7 +21,7 @@
             <p
               class="mb-4 text-md leading-loose"
             >A lot has changed since then, but my passion for what is possible with HTML, CSS and JavaScript has not waned.</p>
-            <p class="text-md leading-loose">The internet can be great. I’m striving to make it so.</p>
+            <p class="text-md leading-loose">The web can be great — I’m striving to make it so.</p>
           </div>
         </div>
         <div class="w-full lg:w-1/2 mt-12 lg:mb-0">

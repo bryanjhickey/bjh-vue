@@ -17,7 +17,7 @@
               target="_blank"
               rel="noopener"
               href="https://www.lg.com/us/monitors/lg-34UM88-P-ultrawide-monitor"
-            >LG 34UM88-P 34inch Ultrwwide monitor</a>,
+            >LG 34UM88-P 34 inch Ultrwwide monitor</a>,
             <a
               target="_blank"
               rel="noopener"
@@ -32,7 +32,7 @@
               target="_blank"
               rel="noopener"
               href="https://www.officeworks.com.au/shop/officeworks/p/lacie-2tb-rugged-portable-hard-drive-thunderbolt-and-usb-3-1-sglcth2tb"
-            >LaCie 2TB SSD Rugged External HD</a>. When I need to block out the outside world (or get told to turn the volume down) I slip on a pair of
+            >LaCie 2TB SSD Rugged External HD</a> with thunderbolt. When I need to block out the outside world (or get told to turn the volume down) I slip on a pair of
             <a
               target="_blank"
               rel="noopener"
@@ -117,7 +117,7 @@
               target="_blank"
               rel="noopener"
               href="https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer"
-            >Live Server</a> — spin up a quickly.
+            >Live Server</a> — spin up a quickie.
           </li>
         </ul>
         <ul class="w-full lg:w-1/2 px-4">
@@ -159,7 +159,7 @@
               target="_blank"
               rel="noopener"
               href="https://marketplace.visualstudio.com/items?itemName=bradlc.vscode-tailwindcss"
-            >Tailwind CSS IntelliSense</a> — Get some help with the utility CSS.
+            >Tailwind CSS IntelliSense</a> — Get some help with this utility CSS framework.
           </li>
           <li class="mb-4 italic text-sm">
             <span class="not-italic text-lg mr-2">🥬</span>
@@ -212,7 +212,7 @@
         <div class="w-full">
           <p
             class="mb-4 text-md leading-loose mb-8 mt-4"
-          >Choosing a right browser is never easy. Despite many of its frustration idiosyncrasies, I mostly use Chrome, occasanily Firefox. My Chrome install has a few helpers for productivity and coding</p>
+          >Choosing "the" right browser is never easy. Despite many of it's frustrating idiosyncrasies, I mostly use Chrome for development and occasanily Firefox. My Chrome install has a few helpers for productivity and coding</p>
         </div>
         <ul class="w-full lg:w-1/2 px-4">
           <li class="mb-4 italic text-sm">
@@ -308,7 +308,7 @@
           </li>
           <li class="mb-4 italic text-sm">
             <span class="not-italic text-lg mr-2">⌨</span>️
-            <a target="_blank" rel="noopener" href="https://www.alfredapp.com/">Alfred</a> — let me fingers do the work of 10 mouses.
+            <a target="_blank" rel="noopener" href="https://www.alfredapp.com/">Alfred</a> — lets my fingers do the work of 10 mouses.
           </li>
           <li class="mb-4 italic text-sm">
             <span class="not-italic text-lg mr-2">🗳️</span>
@@ -324,7 +324,7 @@
           </li>
           <li class="mb-4 italic text-sm">
             <span class="not-italic text-lg mr-2">🔥</span>
-            <a target="_blank" rel="noopener" href="https://www.backblaze.com/">BackBlaze</a> — my whole computer backed up, version-controlled and no fuss.
+            <a target="_blank" rel="noopener" href="https://www.backblaze.com/">BackBlaze</a> — my whole computer backed-up and version-controlled in the cloud with no fuss.
           </li>
           <li class="mb-4 italic text-sm">
             <span class="not-italic text-lg mr-2">🧹</span>
@@ -374,7 +374,7 @@
           </li>
           <li class="mb-4 italic text-sm">
             <span class="not-italic text-lg mr-2">🍀</span>
-            <a target="_blank" rel="noopener" href="https://sproutsocial.com/">Sprout Social</a> — it's costly but woth it. For managing a lots social media accounts, posts. conversations and anayltics..
+            <a target="_blank" rel="noopener" href="https://sproutsocial.com/">Sprout Social</a> — it's costly but woth it. For managing lots social media accounts, posts. conversations and anayltics.
           </li>
           <li class="mb-4 italic text-sm">
             <span class="not-italic text-lg mr-2">🤼</span>
