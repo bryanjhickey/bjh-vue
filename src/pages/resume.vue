@@ -111,32 +111,6 @@ export default {
       ],
       jobs: [
         {
-          position: "Marketing Communications Manager",
-          company: "Dindas Australia",
-          timeframe: "2019-2020",
-          experiences: [
-            {
-              details:
-                "Established new direction and standards for brand identity through refreshing and significantly expanding an existing brand identity."
-            },
-            {
-              details: "Instituted DAM Library using Sharepoint and MS Teams."
-            },
-            {
-              details:
-                "Formalised design requests and approvals process for marketing and creative support."
-            },
-            {
-              details:
-                "Developed industry training modules for online learning system (NatBuild)."
-            },
-            {
-              details:
-                "Audits of existing marketing strategy and competitive analysis reporting to CEO."
-            }
-          ]
-        },
-        {
           position: "Director",
           company: "Big Man Media",
           timeframe: "2011-Present",
@@ -172,11 +146,67 @@ export default {
           ]
         },
         {
+          position: "Marketing & Communications",
+          company: "Renegade MMA",
+          timeframe: "2011-Present",
+          summary:
+            "Part time (1 day per week) to establish and grow the business through marketing, website creation and management and customer engagement",
+          experiences: [
+            {
+              details:
+                "Establish consistent use of logos, typography, image style and tone of voice across internal and external communications"
+            },
+            {
+              details:
+                "Develop, plan and execute marketing efforts across print, social media and email to achieve business goals"
+            },
+            {
+              details:
+                "Develop unique and compelling marketing touch-points against competitor analysis"
+            },
+            {
+              details:
+                "Content creation and scheduling of social media marketing and customer emails"
+            },
+            {
+              details:
+                "Develop online booking system to reduce staff time and increase early customer engagement"
+            }
+          ]
+        },
+        {
+          position: "Marketing Communications Manager",
+          company: "Dindas Australia",
+          timeframe: "2019-2020",
+          experiences: [
+            {
+              details:
+                "Established new direction and standards for brand identity through refreshing and significantly expanding an existing brand identity."
+            },
+            {
+              details: "Instituted DAM Library using Sharepoint and MS Teams."
+            },
+            {
+              details:
+                "Formalised design requests and approvals process for marketing and creative support."
+            },
+            {
+              details:
+                "Developed industry training modules for online learning system (NatBuild)."
+            },
+            {
+              details:
+                "Audits of existing marketing strategy and competitive analysis reporting to CEO."
+            }
+          ]
+        },
+
+        {
           position: "Marketing Coordinator",
           company: "Interpack",
           summary:
             "Contract work with manufacturing company to position themselves as premium suppliers within their B2B niche",
-          timeframe: "2017-Present",
+          timeframe: "2017-2019",
           experiences: [
             {
               details:
@@ -209,35 +239,6 @@ export default {
             {
               details:
                 "Budget and negotiate favourable advertising arrangements and sponsorship opportunities"
-            }
-          ]
-        },
-        {
-          position: "Marketing & Communications",
-          company: "Renegade MMA",
-          timeframe: "2011-Present",
-          summary:
-            "Part time (1 day per week) to establish and grow the business through marketing, website creation and management and customer engagement",
-          experiences: [
-            {
-              details:
-                "Establish consistent use of logos, typography, image style and tone of voice across internal and external communications"
-            },
-            {
-              details:
-                "Develop, plan and execute marketing efforts across print, social media and email to achieve business goals"
-            },
-            {
-              details:
-                "Develop unique and compelling marketing touch-points against competitor analysis"
-            },
-            {
-              details:
-                "Content creation and scheduling of social media marketing and customer emails"
-            },
-            {
-              details:
-                "Develop online booking system to reduce staff time and increase early customer engagement"
             }
           ]
         },
