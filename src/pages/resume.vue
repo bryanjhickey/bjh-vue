@@ -24,8 +24,16 @@
         </section>
         <p>
           You can find a selection of my design work on
-          <a target="_blank" rel="noopener" href="https://www.behance.net/bigmanmedia">Behance</a> and my code on
-          <a target="_blank" rel="noopener" href="https://github.com/bryanjhickey">Github</a>
+          <a
+            target="_blank"
+            rel="noopener"
+            href="https://www.behance.net/bigmanmedia"
+          >Behance</a> and my code on
+          <a
+            target="_blank"
+            rel="noopener"
+            href="https://github.com/bryanjhickey"
+          >Github</a>
         </p>
       </div>
     </div>
@@ -102,6 +110,32 @@ export default {
         }
       ],
       jobs: [
+        {
+          position: "Marketing Communications Manager",
+          company: "Dindas Australia",
+          timeframe: "2019-2020",
+          experiences: [
+            {
+              details:
+                "Established new direction and standards for brand identity through refreshing and significantly expanding an existing brand identity."
+            },
+            {
+              details: "Instituted DAM Library using Sharepoint and MS Teams."
+            },
+            {
+              details:
+                "Formalised design requests and approvals process for marketing and creative support."
+            },
+            {
+              details:
+                "Developed industry training modules for online learning system (NatBuild)."
+            },
+            {
+              details:
+                "Audits of existing marketing strategy and competitive analysis reporting to CEO."
+            }
+          ]
+        },
         {
           position: "Director",
           company: "Big Man Media",

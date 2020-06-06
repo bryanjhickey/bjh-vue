@@ -17,12 +17,12 @@
               target="_blank"
               rel="noopener"
               href="https://www.lg.com/us/monitors/lg-34UM88-P-ultrawide-monitor"
-            >LG 34UM88-P 34 inch Ultrwwide monitor</a>,
+            >LG 34UM88-P 34 inch Ultrawide monitor</a>,
             <a
               target="_blank"
               rel="noopener"
               href="https://www.logitech.com/en-au/product/speaker-system-z623"
-            >Logitech Z623 Speakers</a>, an (aging)
+            >Logitech Z623 Speakers</a>, an (ageing)
             <a
               target="_blank"
               rel="noopener"
@@ -212,7 +212,7 @@
         <div class="w-full">
           <p
             class="mb-4 text-md leading-loose mb-8 mt-4"
-          >Choosing "the" right browser is never easy. Despite many of it's frustrating idiosyncrasies, I mostly use Chrome for development and occasanily Firefox. My Chrome install has a few helpers for productivity and coding</p>
+          >Choosing "the" right browser is never easy. Despite many of its frustrating idiosyncrasies, I mostly use Chrome for development and occasionally Firefox. My Chrome install has a few helpers for productivity and coding</p>
         </div>
         <ul class="w-full lg:w-1/2 px-4">
           <li class="mb-4 italic text-sm">
@@ -304,7 +304,7 @@
           </li>
           <li class="mb-4 italic text-sm">
             <span class="not-italic text-lg mr-2">✉</span>️
-            <a target="_blank" rel="noopener" href="https://support.apple.com/en-au/mail">Mail</a> — its an email app.
+            <a target="_blank" rel="noopener" href="https://support.apple.com/en-au/mail">Mail</a> — it's an email app.
           </li>
           <li class="mb-4 italic text-sm">
             <span class="not-italic text-lg mr-2">⌨</span>️
@@ -374,7 +374,7 @@
           </li>
           <li class="mb-4 italic text-sm">
             <span class="not-italic text-lg mr-2">🍀</span>
-            <a target="_blank" rel="noopener" href="https://sproutsocial.com/">Sprout Social</a> — it's costly but woth it. For managing lots social media accounts, posts. conversations and anayltics.
+            <a target="_blank" rel="noopener" href="https://sproutsocial.com/">Sprout Social</a> — it's costly but worth it. For managing lots social media accounts, posts. conversations and analytics.
           </li>
           <li class="mb-4 italic text-sm">
             <span class="not-italic text-lg mr-2">🤼</span>
